@@ -1,5 +1,5 @@
 # About
-This is a full-stack project which is undeveloped but I will complete this very soon.<br> This website is made for my imaginary business which is can build software for the business. 
+This is a full-stack project which is undeveloped but I will complete this very soon.<br> This website is made for my imaginary business.
 
 # Files include
 - Login and Signup (This is the only thing that is completed)
