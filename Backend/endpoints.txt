@@ -1,0 +1,2 @@
+/login get input: email, password
+/register post input: name, email, password
